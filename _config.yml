@@ -1,0 +1,28 @@
+name: 'Michael Stief Newborn & Maternity Photographer'
+favicon: null
+layout_spectrum: 0.8284365436993539
+typography_spectrum: 0.08647609571926296
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3257621896918863
+  lightness: 0.6345435478724539
+  saturation: 0.9807363159488887
+  rhythmicContrast: 0.02238670759834349
+purpose: []
